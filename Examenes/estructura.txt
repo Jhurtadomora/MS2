@@ -1,0 +1,18 @@
+Listado de rutas de carpetas para el volumen Windows
+El número de serie del volumen es 3474-9150
+C:.
+    capitulo1.txt
+    capitulo2.txt
+    estaciones.txt
+    estructura.txt
+    historia_completa.txt
+    meses.txt
+    numeros1.txt
+    numeros2.txt
+    numeros_completos.txt
+    parcial1.txt_final_2023.txt
+    parcial2.txt_final_2023.txt
+    parcial3.txt_final_2023.txt
+    
+No existe ninguna subcarpeta 
+
